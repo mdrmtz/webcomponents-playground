@@ -1,0 +1,3 @@
+[submodule "web-components-examples"]
+	path = web-components-examples
+	url = https://github.com/mdn/web-components-examples.git
